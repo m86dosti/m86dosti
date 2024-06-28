@@ -1,5 +1,5 @@
 <h1 align="center">I'm Mohammad Dostipour</h1>
-<hr>
+
 <p>## About Me</p>
 
 <pre>
