@@ -35,8 +35,9 @@
 <br>
 <div>
 <pre>
-Connect with me:
 <hr>
+    Connect with me:
+
 - Email: mohammad1386dostipor@gmail.com 
 - Telegram: m86dosti -- https://t.me/m86dosti
 - Instagram: m86_dosti -- https://www.instagram.com/m86_dosti
