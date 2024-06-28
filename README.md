@@ -1,5 +1,5 @@
 <h1 align="center">I'm Mohammad Dostipour</h1>
-
+<hr>
 <p>## About Me</p>
 
 <pre>
@@ -9,11 +9,11 @@
     In my personal life, I like to stick to my goals and work hard to achieve them.
     I enjoy learning new computer topics and I am eager to gain more knowledge in my field of work..
 </pre>
-
-<p>- 💬 Ask me about ++ HTML , CSS , JAVASCRIPT, and Linux (ubuntu) ++</p>
-
-<p>- 📫 How to reach me ++ mohammad1386dostipor@gmail.com ++</p>
-
+<hr>
+<p>- 💬 Ask me about -- HTML , CSS , JAVASCRIPT, and Linux (ubuntu) --</p>
+<hr>
+<p>- 📫 How to reach me -- mohammad1386dostipor@gmail.com --</p>
+<hr>
 <p>## Skills</p>
 <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="50px">
@@ -35,13 +35,13 @@
 <br>
 <div>
 <pre>
-
+<hr>
 ## Connect with me:
 
 - Email: mohammad1386dostipor@gmail.com 
-- Telegram: m86dosti [https://t.me/m86dosti]
-- Instagram: m86_dosti [https://www.instagram.com/m86_dosti]
-
+- Telegram: m86dosti -- https://t.me/m86dosti
+- Instagram: m86_dosti -- https://www.instagram.com/m86_dosti
+<hr>
 </pre>
 
 </div>
