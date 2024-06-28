@@ -36,7 +36,7 @@
 <div>
 <pre>
 
-    <p>Connect with me:</p>
+<p>Connect with me:</p>
 <hr>
 - Email: mohammad1386dostipor@gmail.com 
 - Telegram: m86dosti -- https://t.me/m86dosti
