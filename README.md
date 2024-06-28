@@ -9,11 +9,17 @@
     In my personal life, I like to stick to my goals and work hard to achieve them.
     I enjoy learning new computer topics and I am eager to gain more knowledge in my field of work..
 </pre>
+
 <hr>
+
 <p>- 💬 Ask me about -- HTML , CSS , JAVASCRIPT, and Linux (ubuntu) --</p>
+
 <hr>
+
 <p>- 📫 How to reach me -- mohammad1386dostipor@gmail.com --</p>
+
 <hr>
+
 <p>## Skills</p>
 <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="50px">
@@ -27,17 +33,42 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="50px">
-
-
 <a href="https://skillicons.dev">
 </a>
 </p>
+
 <br>
 </div>
+
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <br>
+
+
 <div>
 <pre>
 <hr>
