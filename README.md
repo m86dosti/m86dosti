@@ -35,13 +35,11 @@
 <br>
 <div>
 <pre>
-
-<p>Connect with me:</p>
+Connect with me:
 <hr>
 - Email: mohammad1386dostipor@gmail.com 
 - Telegram: m86dosti -- https://t.me/m86dosti
 - Instagram: m86_dosti -- https://www.instagram.com/m86_dosti
 <hr>
 </pre>
-
 </div>
