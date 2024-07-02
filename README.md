@@ -41,7 +41,7 @@
 <a href="https://skillicons.dev">
 </a>
 </p>
-
+<hr>
 <br>
 </div>
 
