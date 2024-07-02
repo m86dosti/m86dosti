@@ -9,8 +9,8 @@
     I am Mohammad Dostipour.
     I am a student of network and software.
     I work in the field of website design.
-    In my personal life, I like to stick to my goals and work hard to achieve them.
-    I enjoy learning new computer topics and
+    I am interested in sticking to my goals in my personal life and also working hard to achieve them.
+    I enjoy learning new computer topics 
     I am eager to gain more knowledge in my field of work..
 </pre>
 
