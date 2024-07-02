@@ -1,6 +1,6 @@
 <h1 align="center">I'm Mohammad Dostipour</h1>
 
-<p>-About Me-</p>
+<p> - About Me - </p>
 
 <pre>
     I am Mohammad Dostipour.
@@ -21,7 +21,7 @@
 
 <hr>
 
-<p>-Skills-</p>
+<p> - Skills - </p>
 <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" height="50px">
@@ -64,9 +64,11 @@
 </div>
 
 
-
+<div align="center">
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+</div>
+
 <br>
 
 
