@@ -24,20 +24,19 @@
 
 <hr>
 
-<p> - Skills - </p>
 <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPt" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="UBUNTU" height="50px">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="50px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="60px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" height="60px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPt" height="60px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" height="60px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="UBUNTU" height="60px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="60px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="60px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" height="60px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" height="60px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" height="60px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" height="60px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="60px">
 <a href="https://skillicons.dev">
 </a>
 </p>
