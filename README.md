@@ -37,7 +37,6 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="60px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="60px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" height="60px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" height="60px">
 <a href="https://skillicons.dev"></a>
 </p>
 <hr>
