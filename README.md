@@ -22,7 +22,10 @@
 
 <p>- 📫 How to reach me -- mohammad1386dostipor@gmail.com - </p>
 
-<hr>
+instagram :
+<a href="https://instagram.com/m86_dosti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="50" width="60"/></a>
+
+<br>
 
 <p align="center">
   
