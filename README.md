@@ -20,7 +20,7 @@
 
 <hr>
 
-<p>- 📫 How to reach me -- mohammad1386dostipor@gmail.com - </p>
+<p>- 📫 How to reach me -- mohammad1386dostipor@gmail.com - </p> <a href="https://instagram.com/m86_dosti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="50" width="60"/></a>
 
 <br>
 
@@ -86,7 +86,6 @@
 - Email: mohammad1386dostipor@gmail.com 
 - Telegram: m86dosti -- https://t.me/m86dosti
 - Instagram: m86_dosti -- https://www.instagram.com/m86_dosti 
-<a href="https://instagram.com/m86_dosti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="50" width="60"/></a>
   
 <hr>
 </pre>
