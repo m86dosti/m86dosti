@@ -61,8 +61,6 @@
   <img src="https://komarev.com/ghpvc/?username=m86dosti&style=for-the-badge&color=orange" alt=""/>
 <br>
     
-[![committers.top badge](https://user-badge.committers.top/rwanda/m86dosti.svg)](https://user-badge.committers.top/rwanda/USERNAME)
-    
 </div>
 
 <div align="center">
