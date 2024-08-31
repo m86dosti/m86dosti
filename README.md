@@ -23,7 +23,8 @@
 <p>- 📫 How to reach me -- mohammad1386dostipor@gmail.com - </p>
 
 <br>
-<h3> Skills </h3>
+<hr>
+<h3> --  Skills -- </h3>
 <p align="center">
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="60px">
