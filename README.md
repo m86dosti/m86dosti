@@ -41,7 +41,9 @@
         </a> 
     </p>
 <hr>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m86dosti&theme=dark"/>
+<div align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m86dosti&theme=dark"/>
+</div>
 <hr>
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=m86dosti&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
