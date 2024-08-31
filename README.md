@@ -61,7 +61,7 @@
   <img src="https://komarev.com/ghpvc/?username=m86dosti&style=for-the-badge&color=orange" alt=""/>
 <br>
     
-[![](https://visitcount.itsvg.in/api?id=innocentemutabazi&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![committers.top badge](https://user-badge.committers.top/rwanda/m86dosti.svg)](https://user-badge.committers.top/rwanda/USERNAME)
     
 </div>
 
