@@ -60,6 +60,7 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=m86dosti&style=for-the-badge&color=orange" alt=""/>
   <br>
+    [![](https://visitcount.itsvg.in/api?id=innocentemutabazi&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
 <div align="center">
