@@ -53,8 +53,11 @@
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=m86dosti&show_icons=true&theme=vision-friendly-dark">
 </p>
 <hr>
-
-![](https://github-contributor-stats.vercel.app/api?username=m86dosti&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+    
+ ![](https://github-contributor-stats.vercel.app/api?username=m86dosti&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+ 
+</div>
 
 <hr>
 <p align="center">
