@@ -48,7 +48,12 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=m86dosti&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 <hr>
-
+    <p align="center"> 
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=m86dosti&theme=juicyfresh" alt="m86dosti"/>
+        </a> 
+    </p>
+<hr>
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=m86dosti&show_icons=true&theme=vision-friendly-dark">
 </p>
