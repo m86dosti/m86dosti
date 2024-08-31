@@ -37,7 +37,7 @@
 </div>
     <p align="center"> 
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=m86dosti&theme=juicyfresh" alt="m86dosti"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=m86dosti&theme=highcontrast" alt="m86dosti"/>
         </a> 
     </p>
 <hr>
