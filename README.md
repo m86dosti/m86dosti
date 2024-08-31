@@ -7,10 +7,7 @@
 
 <pre>
      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=arial&weight=6000&size=28&duration=5304&pause=1000&color=000000&background=FFD22800&center=true&vCenter=true&width=850&lines=
-        Hello,+I'm+Mohammad+;Welcome+to+My+Profile!+;
-        I+am+a+Programmer"
-        alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.comfont=arial&weight=6000&size=28&duration=5304&pause=1000&color=000000&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Mohammad+;Welcome+to+My+Profile!+;I+am+a+Programmer"alt="Typing SVG"/>
     </a>
     I am Mohammad Dostipour.
     I am a student of network and software.
