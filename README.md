@@ -42,7 +42,7 @@
     </p>
 <hr>
 <div align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m86dosti&theme=dark"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m86dosti&theme=highcontrast"/>
 </div>
 <hr>
 <p align="center">
