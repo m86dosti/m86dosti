@@ -32,6 +32,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" alt="debian" height="60px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="arch" height="60px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="60px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="60px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="60px">
 <a href="https://skillicons.dev"></a>
 </p>
