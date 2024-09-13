@@ -21,19 +21,19 @@
 <hr>
 <h3> --  Skills -- </h3>
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPt" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="UBUNTU" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" alt="debian" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="arch" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="60px" style="border-radius: 10px;">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="60px" style="border-radius: 10px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPt" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="UBUNTU" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" alt="debian" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="arch" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="60px" style="border-radius: 50px;">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="60px" style="border-radius: 50px;">
 <a href="https://skillicons.dev"></a>
 </p>
 <hr>
