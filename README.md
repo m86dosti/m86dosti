@@ -27,6 +27,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="cs" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" height="60px">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="sql" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" alt="arch" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" alt="debian" height="60px">
@@ -34,6 +35,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="visual" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg" alt="rider" height="60px">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" height="60px">
 <a href="https://skillicons.dev"></a>
