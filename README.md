@@ -26,6 +26,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="js" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="cs" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="60px">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" alt="arch" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" alt="debian" height="60px">
