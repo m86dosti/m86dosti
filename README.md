@@ -31,9 +31,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" alt="arch" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" alt="debian" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="ubuntu" height="60px">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" height="60px">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="visual" height="60px">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg" alt="rider" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" height="60px">
