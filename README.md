@@ -48,6 +48,10 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m86dosti&theme=highcontrast"/>
 </div>
 <hr>
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m86dosti&theme=github-compact)
+
+<hr>
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=m86dosti&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
