@@ -49,7 +49,7 @@
 </div>
 <hr>
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m86dosti&theme=highcontrast)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m86dosti&theme=vision-friendly-dark)
 
 <hr>
 <p align="center">
