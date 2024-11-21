@@ -45,11 +45,14 @@
     </p>
 <hr>
 <div align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m86dosti&theme=highcontrast"/>
+ 
+ ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m86dosti&theme=github-compact)
+ 
 </div>
 <hr>
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m86dosti&theme=github-compact)
+<div align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m86dosti&theme=highcontrast"/>
+</div>
 
 <hr>
 <p align="center">
