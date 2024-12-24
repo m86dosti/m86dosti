@@ -1,5 +1,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+m86dosti!" alt="Typing SVG" style="display: inline-block;">
 <br>
+<div align="center">
+  <img src="./assets/terminal.gif" />
+</div>
+<hr>
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=I'm+Mohammad+Dostipour!" alt="Typing SVG" style="display: inline-block;">  
 <hr>
 <p> - About Me - </p>
