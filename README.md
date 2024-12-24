@@ -57,8 +57,6 @@
 </div>
 
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m86dosti&theme=tokyonight" width="auto" height="auto" />
-
 
 <hr>
 <p align="center">
