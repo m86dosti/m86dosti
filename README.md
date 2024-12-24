@@ -56,6 +56,9 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m86dosti&theme=highcontrast"/>
 </div>
 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=m86dosti&hide_border=true&show_icons=true&theme=tokyonight&layout=compact&card_width=900" width="auto" height="auto" />
+
+
 <hr>
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=m86dosti&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
