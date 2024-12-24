@@ -73,7 +73,6 @@
 <br>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=m86dosti&style=for-the-badge&color=orange" alt=""/>
- <br>
   <img src="https://img.shields.io/github/followers/m86dosti?label=Followers&style=social" alt="followers-count" width="150px"> 
 <br>
     
