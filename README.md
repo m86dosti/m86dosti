@@ -23,6 +23,7 @@
 <p align="center">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" height="60px">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="git" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="js" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="cs" height="60px">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="60px">
