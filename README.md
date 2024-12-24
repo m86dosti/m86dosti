@@ -15,7 +15,7 @@
     I am eager to gain more knowledge in my field of work..
 </pre>
 <hr>
-<p>- 💬 Ask me about : HTML , CSS , JAVASCRIPT, and Linux (ubuntu) </p>
+<p>- 💬 Ask me about : JAVASCRIPT and Linux </p>
 <hr>
 <p>- 📫 How to reach me -- mohammad1386dostipor@gmail.com - </p>
 <hr>
