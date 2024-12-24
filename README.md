@@ -73,6 +73,7 @@
 <br>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=m86dosti&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://profile-counter.glitch.me/m86dosti/count.svg" width="350px" />
 <br>
     
 </div>
