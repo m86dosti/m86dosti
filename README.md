@@ -56,7 +56,8 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m86dosti&theme=highcontrast"/>
 </div>
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=m86dosti&hide_border=true&show_icons=true&theme=tokyonight&layout=compact&card_width=900" width="auto" height="auto" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m86dosti&theme=tokyonight" width="auto" height="auto" />
 
 
 <hr>
