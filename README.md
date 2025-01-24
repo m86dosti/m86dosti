@@ -6,6 +6,7 @@
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=I'm+Mohammad+Dostipour!" alt="Typing SVG" style="display: inline-block;">  
 <hr>
+
 <p> - About Me - </p>
  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=arial&weight=6000&size=30&duration=5304&pause=1000&color=ffffff&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Mohammad+;Welcome+to+My+Profile!+;I+am+a+Programmer" alt="Typing SVG" />
