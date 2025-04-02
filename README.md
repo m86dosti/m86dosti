@@ -1,7 +1,6 @@
-<p> - About Me - </p>
- <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=arial&weight=6000&size=30&duration=5304&pause=1000&color=ffffff&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Mohammad+;Welcome+to+My+Profile!+;I+am+a+Programmer" alt="Typing SVG" />
-    </a>
+ </a>
 <pre>
     I am Mohammad Dostipour.
     I am a student of network and software.
@@ -12,7 +11,6 @@
 </pre>
 <hr>
 <p>- 💬 Ask me about : JAVASCRIPT and Linux </p>
-<hr>
 <p>- 📫 How to reach me -- mohammad1386dostipor@gmail.com - </p>
 <hr>
 <h3> --  Skills -- </h3>
